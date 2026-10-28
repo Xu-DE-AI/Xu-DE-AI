@@ -5,7 +5,6 @@
 I am a 🤖 AI Engineer working at the intersection of scalable software/data systems and applied predictive modeling & quantitative optimization.
 
 - 🧠 **AI & ML Systems:** Designing production-grade LLM/Agentic workflows, hybrid retrieval (RAG), deterministic schema validation (Pydantic), and automated LLM-as-a-Judge evaluations.
-- 📈 **Dynamic Pricing & Revenue ML:** Tabular gradient boosting (LightGBM, XGBoost), price elasticity estimation, multi-horizon demand forecasting, and constrained multi-objective loss optimization.
 - ⚙️ **Data & MLOps Infrastructure:** Processing high-throughput event pipelines (PySpark, Databricks, AWS S3/Athena) with CI/CD, MLflow artifact tracking, and Dockerized microservices.
 
 ---
